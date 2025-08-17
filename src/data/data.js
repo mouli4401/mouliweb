@@ -7,9 +7,9 @@ export const about = {
     email: "mouliduggirala02@gmail.com",
 };
 export const seo = {
-    title: `Minimal, clean Next.js portfolio template | ${about.name} | ${about.role}`,
-    description: "Minimal, clean Next.js portfolio template for developers seeking a simple, professional online presence without extra complexity.",
-    keywords: "portfolio, web developer, Next.js, developer portfolio, minimal portfolio",
+    title: `Mouli Duggirala | ${about.name} | ${about.role}`,
+    description: "",
+    keywords: "portfolio, web developer, Next.js, developer portfolio,  portfolio",
 }
 
 export const forms = {
